@@ -1,0 +1,23 @@
+h1. MD Detect Page Type
+
+Detect if you are on pagination page, category page, or yearly archive page.
+
+h2. Info
+
+Developed by Ryan Masuga, http://masugadesign.com
+
+Docs: "MD Detect Page Type":http://masugadesign.com/the-lab/scripts/md-detect-page-type/ <br />
+EE Extension Info: http://expressionengine.com/docs/development/extensions.html
+
+Also see the "related forum thread at the EE Forums":http://expressionengine.com/forums/viewthread/92307/.
+
+h2. Changelog
+
+*1.0.1 (Sep 29, 2008)*
+
+* Added ability to check for category page and yearly archive page types
+* Changed name from md_detect_pagination to md_detect_page_type
+
+1.0.0 (Sep 28, 2008)
+
+* Initial release.
